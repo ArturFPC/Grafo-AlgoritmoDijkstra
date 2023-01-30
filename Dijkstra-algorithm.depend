@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1675109724 source:/home/tutu/codeblocks-programs/Dijkstra-algorithm/main.cpp
+	<iostream>
+	"grafo.h"
+
+1675109704 /home/tutu/codeblocks-programs/Dijkstra-algorithm/include/grafo.h
+	"vertice.h"
+	<queue>
+	<vector>
+
+1675081827 /home/tutu/codeblocks-programs/Dijkstra-algorithm/include/vertice.h
+	<string>
+	<iostream>
+	<vector>
+
